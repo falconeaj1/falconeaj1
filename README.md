@@ -1,3 +1,4 @@
+# Summary
 - 👋 Hi, I’m @falconeaj1
 - 👀 I’m interested in AI, math, education
 - 🌱 I’m currently learning reinforcement learning, data science, app development
